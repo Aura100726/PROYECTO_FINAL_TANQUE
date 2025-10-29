@@ -153,9 +153,10 @@ L1: Led de nivel medio
 L2: Led de nivel alto
 Orden de las entradas y salidas.
 SF, SU / L1, L2
+# elaboracion de diagrama de casos de uso
 <img width="865" height="329" alt="image" src="https://github.com/user-attachments/assets/0724e0b5-3d0e-4eef-b304-883bb5567086" />
 
-# elaboracion de diagrama de casos de uso
+
 # Proyecto: Sistema de Llenado de Tanque a Dos Niveles
 
 El proyecto consiste en automatizar el llenado de un tanque en el hogar
