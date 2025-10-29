@@ -6,9 +6,9 @@ El sistema permite controlar el nivel del agua mediante sensores que detectan lo
 Desarrollar un sistema automatizado que controle el llenado de un tanque de agua a través de sensores de nivel, asegurando un funcionamiento eficiente y seguro.
 
 # INTEGRANTES
-Aura Leticia Londoño Román- 202478514 -3744
 Juan Sebastián Carvajal- 202478547-3744
-maicol
-
+Juan David moreno jurado 202478559 - 3744
+Maicol Stiven Guevara Orrego 202478462 - 3744
+Aura Leticia Londoño Román- 202478514 -3744
 
 
