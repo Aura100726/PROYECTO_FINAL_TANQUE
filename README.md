@@ -134,5 +134,22 @@ Como equipo de desarrollo, necesitamos implementar el servicio de envío de noti
 Como equipo de desarrollo, necesitamos diseñar la base de datos para almacenar el historial de niveles, para analizar el consumo de agua.
 # HT-05 – Interfaz de monitoreo
 Como equipo de desarrollo, necesitamos programar la interfaz gráfica en pantalla, para visualizar en tiempo real el nivel del tanque.
-
+# Diagrama de clases
 <img width="1501" height="844" alt="image" src="https://github.com/user-attachments/assets/3f8c9d8e-87e4-40d2-aa99-b92237c0ac82" />
+ # a continuacion el diagrama de estados 
+ # Tanque
+
+Tanque de llenado manual de dos niveles, cuando el tanque llegue al nivel medio se va a
+activar un sensor ultrasónico que a su ves activara un led que es el avisara que el tanque está al
+nivel medio.
+Una vez ya paso el nivel medio, se activará un flotador y otro led, el cual avisará que el tanque
+se llego al tope, este nivel indicará que al tanque ya no se le puede echar más agua.
+# Entradas:
+SU: sensor ultrasónico
+SF: sensor flotador
+# Salidas:
+L1: Led de nivel medio
+L2: Led de nivel alto
+Orden de las entradas y salidas.
+SF, SU / L1, L2
+<img width="865" height="329" alt="image" src="https://github.com/user-attachments/assets/0724e0b5-3d0e-4eef-b304-883bb5567086" />
