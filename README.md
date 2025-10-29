@@ -134,6 +134,7 @@ Como equipo de desarrollo, necesitamos implementar el servicio de envío de noti
 Como equipo de desarrollo, necesitamos diseñar la base de datos para almacenar el historial de niveles, para analizar el consumo de agua.
 # HT-05 – Interfaz de monitoreo
 Como equipo de desarrollo, necesitamos programar la interfaz gráfica en pantalla, para visualizar en tiempo real el nivel del tanque.
+
 # Diagrama de clases
 <img width="1501" height="844" alt="image" src="https://github.com/user-attachments/assets/3f8c9d8e-87e4-40d2-aa99-b92237c0ac82" />
  # a continuacion el diagrama de estados 
@@ -153,3 +154,41 @@ L2: Led de nivel alto
 Orden de las entradas y salidas.
 SF, SU / L1, L2
 <img width="865" height="329" alt="image" src="https://github.com/user-attachments/assets/0724e0b5-3d0e-4eef-b304-883bb5567086" />
+
+# elaboracion de diagrama de casos de uso
+# Proyecto: Sistema de Llenado de Tanque a Dos Niveles
+
+El proyecto consiste en automatizar el llenado de un tanque en el hogar
+para evitar desperdicio de agua .
+Actualmente, la persona que llena el tanque debe estar atenta para evitar
+rebosamientos.
+Con este sistema:
+• El motor se enciende automáticamente cuando el agua está en nivel
+bajo.
+• El motor se apaga automáticamente al llegar al nivel máximo.
+• El sistema emite avisos en nivel medio y máximo.
+• Se evitan pérdidas de agua y la necesidad de vigilancia constante.
+# Actores
+•Operador (mujer del hogar): Supervisa el sistema, puede
+configurarlo o activarlo en modo manual.
+•Sensor de Nivel Bajo: Detecta cuando el tanque necesita
+llenarse.
+•Sensor de Nivel Alto: Detecta cuando el tanque está lleno
+y ordena detener el llenado.
+•Sistema de llenado (bomba/válvula): Ejecuta el llenado
+físico del tanque.
+# Casos de Uso
+Monitorear nivel de agua
+1. El operador puede ver si el tanque está en nivel bajo o alto.
+Activar llenado automático
+1. Cuando el sensor de nivel bajo detecta que el tanque está vacío, envía la señal al sistema
+para encender la bomba.
+Detener llenado automático
+1. Cuando el sensor de nivel alto detecta tanque lleno, el sistema apaga la bomba.
+Generar alarma de error o desborde
+1. Si el sistema no logra cerrar válvula o apagar motor, emite alarma de desborde.
+<img width="1253" height="672" alt="image" src="https://github.com/user-attachments/assets/031492d0-5e52-4974-a456-b57cc2ec9d8b" />
+Especificacionesde Casos de Uso
+<img width="1123" height="434" alt="image" src="https://github.com/user-attachments/assets/c8fd10ff-71ac-496f-8e98-79ca4d5d7a7e" />
+<img width="1121" height="431" alt="image" src="https://github.com/user-attachments/assets/6bf1aadf-bb04-41bb-906e-5b8f8831382a" />
+
