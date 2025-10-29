@@ -134,3 +134,5 @@ Como equipo de desarrollo, necesitamos implementar el servicio de envío de noti
 Como equipo de desarrollo, necesitamos diseñar la base de datos para almacenar el historial de niveles, para analizar el consumo de agua.
 # HT-05 – Interfaz de monitoreo
 Como equipo de desarrollo, necesitamos programar la interfaz gráfica en pantalla, para visualizar en tiempo real el nivel del tanque.
+
+<img width="1501" height="844" alt="image" src="https://github.com/user-attachments/assets/3f8c9d8e-87e4-40d2-aa99-b92237c0ac82" />
