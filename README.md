@@ -137,9 +137,9 @@ Como equipo de desarrollo, necesitamos programar la interfaz gráfica en pantall
 
 # Diagrama de clases
 <img width="1501" height="844" alt="image" src="https://github.com/user-attachments/assets/3f8c9d8e-87e4-40d2-aa99-b92237c0ac82" />
- # a continuacion el diagrama de estados 
- # Tanque
 
+# a continuacion el diagrama de estados 
+# Tanque
 Tanque de llenado manual de dos niveles, cuando el tanque llegue al nivel medio se va a
 activar un sensor ultrasónico que a su ves activara un led que es el avisara que el tanque está al
 nivel medio.
