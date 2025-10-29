@@ -182,8 +182,8 @@ físico del tanque.
 Monitorear nivel de agua
 1. El operador puede ver si el tanque está en nivel bajo o alto.
 Activar llenado automático
-1. Cuando el sensor de nivel bajo detecta que el tanque está vacío, envía la señal al sistema
-para encender la bomba.
+1. Cuando el sensor de nivel bajo detecta que el tanque está vacío, enía la señal al sistema
+para encender la bomba.v
 Detener llenado automático
 1. Cuando el sensor de nivel alto detecta tanque lleno, el sistema apaga la bomba.
 Generar alarma de error o desborde
