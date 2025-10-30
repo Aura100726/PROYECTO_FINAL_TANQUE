@@ -136,7 +136,7 @@ Como equipo de desarrollo, necesitamos diseñar la base de datos para almacenar 
 Como equipo de desarrollo, necesitamos programar la interfaz gráfica en pantalla, para visualizar en tiempo real el nivel del tanque.
 
 # Diagrama de clases
-<img width="1501" height="844" alt="image" src="https://github.com/user-attachments/assets/3f8c9d8e-87e4-40d2-aa99-b92237c0ac82" />
+<img width="582" height="1052" alt="Image" src="https://github.com/user-attachments/assets/029fc013-bb93-431b-a9c8-998ca8f39ede" />
 
 # a continuacion el diagrama de estados 
 # Tanque
