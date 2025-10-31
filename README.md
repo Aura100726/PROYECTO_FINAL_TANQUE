@@ -190,6 +190,6 @@ Generar alarma de error o desborde
 1. Si el sistema no logra cerrar válvula o apagar motor, emite alarma de desborde.
 <img width="1253" height="672" alt="image" src="https://github.com/user-attachments/assets/031492d0-5e52-4974-a456-b57cc2ec9d8b" />
 Especificacionesde Casos de Uso
-<img width="1123" height="434" alt="image" src="https://github.com/user-attachments/assets/c8fd10ff-71ac-496f-8e98-79ca4d5d7a7e" />
-<img width="1121" height="431" alt="image" src="https://github.com/user-attachments/assets/6bf1aadf-bb04-41bb-906e-5b8f8831382a" />
+<img width="808" height="741" alt="Image" src="https://github.com/user-attachments/assets/f06bb1f9-d155-4ffe-a2b9-3267faa0a2a9" />
+
 
