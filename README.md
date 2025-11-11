@@ -191,5 +191,10 @@ Generar alarma de error o desborde
 <img width="1253" height="672" alt="image" src="https://github.com/user-attachments/assets/031492d0-5e52-4974-a456-b57cc2ec9d8b" />
 Especificaciones de Casos de Uso
 <img width="808" height="741" alt="Image" src="https://github.com/user-attachments/assets/f06bb1f9-d155-4ffe-a2b9-3267faa0a2a9" />
+# REUNION GRUPAL 10 NOVIEMBRE 2025
+sprint planner: planear lo que se va a hacer 
+tuvimos una reunion de minimo 15 minutos todos los integrantes del grupo donde principalmente se hablo con los dos compañeros carvajal y miguel ya que hacian falta por terminar esta pagina y lograron cumplir con ese objetivo y asi estar al nivel de todo el resto del grupo y poder trabajar en conjunto. 
+![Uploading image.png…]()
+Tambien se hablo de pedir el lugar de laboratorio en la Universidad del Valle Sede Bolivar el dia 11 de noviembre a las 
 
 
