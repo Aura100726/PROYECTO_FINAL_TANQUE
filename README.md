@@ -201,10 +201,10 @@ en el cual seguimos trabajando en el codigo y terminando de comprar los material
 
 # REUNION 11 NOVIEMBRE
 Nos reunimos en el laboratorio de 10:00 am a 12:00pm los integrantes del proyecto quienes somos
-Aura Leticia Londoño
-Miguel Ángel Cáceres
-Juan David Moreno
-Maicol Stiven Guevara
+Aura Leticia Londoño,
+Miguel Ángel Cáceres,
+Juan David Moreno,
+Maicol Stiven Guevara,
 Juan Sebastian Carvajal
 para el avance del código y trabajo físico del proyecto final
 
