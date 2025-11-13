@@ -209,6 +209,13 @@ Juan Sebastian Carvajal
 para el avance del código y trabajo físico del proyecto final
 
 # REUNION GRUPAL 12 NOVIEMBRE 2025
+El día 12 de noviembre de 2025 se realizó una reunión virtual por medio de Google Meet en horas de la noche, la cual tuvo una duración aproximada de 13 minutos.
+Esta reunión fue liderada por la compañera Aura Leticia Londoño, quien es la Scrum Master del grupo.
 
+Durante la reunión, se habló sobre los avances realizados en el laboratorio y se solicitó a cada integrante comentar su progreso.
+Maicol Stiven Guevara Orrego estuvo a cargo de la parte de ensamblaje de la maqueta del tanque y de una parte del código del proyecto.
+Juan David Moreno Jurado asistió a la reunión y realizó una reforma en la programación del código durante su trabajo en el laboratorio.
+Por su parte, Juan Sebastián Carvajal y Miguel Ángel Cáceres también participaron en la reunión y se encargaron de ciertas secciones del código.
 
+En general, la reunión permitió revisar los avances y coordinar las próximas tareas para continuar con el desarrollo del proyecto.
 
