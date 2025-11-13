@@ -199,7 +199,7 @@ tuvimos una reunion de minimo 15 minutos todos los integrantes del grupo donde p
 Tambien se hablo de pedir el lugar de laboratorio en la Universidad del Valle Sede Bolivar el dia 11 de noviembre a las 10:00 am hasta las 12:00 pm ya que este es el tiempo que nos queda libre del dia martes al tener mas clases con otros docentes.
 en el cual seguimos trabajando en el codigo y terminando de comprar los materiales para asi dar inicio a nuetro proyecto fisico.
 
-# REUNION 11 NOVIEMBRE
+# REUNION GRUPAL EN EL LABORATORIO  11 NOVIEMBRE 2025
 Nos reunimos en el laboratorio de 10:00 am a 12:00pm los integrantes del proyecto quienes somos
 Aura Leticia Londoño,
 Miguel Ángel Cáceres,
@@ -207,5 +207,8 @@ Juan David Moreno,
 Maicol Stiven Guevara,
 Juan Sebastian Carvajal
 para el avance del código y trabajo físico del proyecto final
+
+# REUNION GRUPAL 12 NOVIEMBRE 2025
+
 
 
