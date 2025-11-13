@@ -218,4 +218,6 @@ Juan David Moreno Jurado asistió a la reunión y realizó una reforma en la pro
 Por su parte, Juan Sebastián Carvajal y Miguel Ángel Cáceres también participaron en la reunión y se encargaron de ciertas secciones del código.
 
 En general, la reunión permitió revisar los avances y coordinar las próximas tareas para continuar con el desarrollo del proyecto.
+<img width="1837" height="799" alt="image" src="https://github.com/user-attachments/assets/f40525b2-68e1-4748-bca5-754e5d449144" />
+
 
