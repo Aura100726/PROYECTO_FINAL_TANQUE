@@ -208,6 +208,12 @@ Maicol Stiven Guevara,
 Juan Sebastian Carvajal
 para el avance del código y trabajo físico del proyecto final
 
+# MAQUETA FISICA EN PROCESO 
+y esta es la foto de la maqueta que esta en proceso para nuestro proyecto
+![WhatsApp Image 2025-11-14 at 9 07 56 AM](https://github.com/user-attachments/assets/84e003e1-ffdd-4f76-8cd1-8bf09593aebf)
+
+
+
 # REUNION GRUPAL 12 NOVIEMBRE 2025
 El día 12 de noviembre de 2025 se realizó una reunión virtual por medio de Google Meet en horas de la noche, la cual tuvo una duración aproximada de 13 minutos.
 Esta reunión fue liderada por la compañera Aura Leticia Londoño, quien es la Scrum Master del grupo.
