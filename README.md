@@ -226,4 +226,9 @@ Por su parte, Juan Sebastián Carvajal y Miguel Ángel Cáceres también partici
 En general, la reunión permitió revisar los avances y coordinar las próximas tareas para continuar con el desarrollo del proyecto.
 <img width="1837" height="799" alt="image" src="https://github.com/user-attachments/assets/f40525b2-68e1-4748-bca5-754e5d449144" />
 
+#REUNION GRUPAL 13 NOVIEMBRE 2025
+Este es el comprobante donde estuvimos mis compañeros y yo en una llamada meet el día 13 de noviembre con esto ya aclaramos ciertos errores como el sensor ya que esta detectando el vaso y no el agua y seguiríamos las pruebas en el laboratorio para llegar a una solución
+
+<img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/ddfca558-0400-4724-8a31-4a525a76c28e" />
+
 
